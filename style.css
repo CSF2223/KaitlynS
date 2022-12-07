@@ -174,9 +174,54 @@ footer {
 
 
 
-.myPic img {
-        width: 100%;
-        height: auto;
+.me{
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;
+    border-right: 4px solid #000;
+    border-left: 4px solid #000;
+    margin: 1.5rem;
+        
+        
+}
+
+.mySchool img {
+    max-width: 100%;
+    height: auto;
+    }
+    
+.mySchool {
+    margin: 1.5rem;
+}
+    
+    .myDeca img {
+    max-width: 100%;
+    height: auto;
+    }
+    
+.myDeca {
+    margin: 1.5rem;
+}
+    
+    .myHawk img {
+     max-width: 100%;
+    height: auto;
+    }
+    
+.myHawk {
+    margin: 1.5rem;
+}
+
+    .myDogs img {
+   max-width: 100%;
+    height: auto;
+    }
+    
+.myDogs{
+    margin: 1.5rem;
+}
+
+.aboutMe {
+    justify-content: center;
 }
 
 @media (min-width: 800px) {
@@ -213,11 +258,8 @@ footer {
         max-width: 20%;
     }
     
-    .myPic {
-    max-width: 50%
-    justify-content:center;
-    }
-    
+   
+
 }
 
 
